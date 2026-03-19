@@ -128,3 +128,45 @@ This repository contains solutions for 10 SQL practical sets covering different 
 ## Notes
 
 This project is created for academic practice and understanding SQL concepts with real-world scenarios.
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+## ER Diagrams
+
+This project includes Entity-Relationship (ER) diagrams for selected database systems to visually represent the structure, relationships, and constraints between entities.
+
+---
+
+### University Management System
+![University ERD](ER_Diagrams/ERD_University.png)
+
+**Description:**
+Represents entities like Students, Courses, Instructors, Departments, and their relationships such as enrollments and sections.
+
+---
+
+### Hospital Management System
+![Hospital ERD](ER_Diagrams/ERD_Hospital.png)
+
+**Description:**
+Illustrates relationships between Patients, Doctors, Wards, Treatments, Admissions, and Medical Records.
+
+---
+
+### E-Commerce System
+![ECommerce ERD](ER_Diagrams/ERD_ECommerce.png)
+
+**Description:**
+Shows entities such as Customers, Products, Orders, Vendors, Categories, and their interactions including purchases and reviews.
+
+---
+
+## Notes
+
+- ER diagrams were created using **MySQL Workbench**
+- Diagrams are exported as images for better visualization
+- They help in understanding database design before implementation
+
+---
