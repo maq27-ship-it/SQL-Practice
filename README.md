@@ -4,8 +4,7 @@
 This SQL practice set contains solutions to 100 advanced MySQL DDL (Data Definition Language) questions based on the Online Bookstore Management System scenario 
 
 SQL Practice Sets
-
-.
+--
 
 The objective of this exercise was to design, modify, and manage a relational database schema that supports a real-world online bookstore platform. The schema includes entities such as:
 Authors
@@ -21,7 +20,7 @@ Coupons
 Return Requests
 Wishlists
 
-|What This Practice Covers
+> What This Practice Covers
 
 This solution demonstrates hands-on implementation of:
 - CREATE TABLE with primary keys
@@ -34,7 +33,7 @@ This solution demonstrates hands-on implementation of:
 - Creating and managing VIEWs
 - Real-world schema evolution scenarios
 
-|Learning Objectives
+> Learning Objectives
 
 Through solving these 100 questions, I practiced:
 Designing normalized relational database structures
@@ -43,13 +42,13 @@ Maintaining data integrity with foreign keys
 Performing schema evolution using DDL commands
 Simulating real-world backend database changes
 
-|Tech Stack
+> Tech Stack
 
 MySQL
 DDL Commands
 Relational Database Design Principles
 
-|Structure
+> Structure
 
 The practice set is divided into sections:
 Section A: Table Creation & Basic Constraints
@@ -66,7 +65,7 @@ Section G: Final Challenges
 
 This repository contains solutions for 10 SQL practical sets covering different real-world database scenarios.
 
-## Sets Included
+> Sets Included
 
 1. Online Bookstore  
 2. Hospital Management System  
@@ -81,7 +80,7 @@ This repository contains solutions for 10 SQL practical sets covering different 
 
 ---
 
-## Technologies Used
+> Technologies Used
 
 - MySQL
 - SQL (DDL, DML, Queries)
@@ -89,7 +88,7 @@ This repository contains solutions for 10 SQL practical sets covering different 
 
 ---
 
-## File Included
+> File Included
 
 - `PRACTISE SET 2 SOLn.sql` → Contains:
   - Database creation
@@ -99,7 +98,7 @@ This repository contains solutions for 10 SQL practical sets covering different 
 
 ---
 
-## How to Run
+> How to Run
 
 1. Open MySQL Workbench / phpMyAdmin / XAMPP
 2. Open the `.sql` file
@@ -108,7 +107,7 @@ This repository contains solutions for 10 SQL practical sets covering different 
 
 ---
 
-## Key Concepts Covered
+> Key Concepts Covered
 
 - Database Design
 - Primary & Foreign Keys
@@ -119,13 +118,13 @@ This repository contains solutions for 10 SQL practical sets covering different 
 
 ---
 
-## Author
+> Author
 
 - Name: (Maqveena Gourea)
 
 ---
 
-## Notes
+> Notes
 
 This project is created for academic practice and understanding SQL concepts with real-world scenarios.
 
@@ -133,7 +132,7 @@ This project is created for academic practice and understanding SQL concepts wit
 ----------------------------------------------------------------------------------------------------------
 
 
-## ER Diagrams
+# ER Diagrams
 
 This project includes Entity-Relationship (ER) diagrams for selected database systems to visually represent the structure, relationships, and constraints between entities.
 
