@@ -18,7 +18,6 @@ The objective of this exercise was to design, modify, and manage a relational da
 ✔ Reviews  
 ✔ Coupons  
 ✔ Return Requests
-✔ Wishlist
 
 ---
 
