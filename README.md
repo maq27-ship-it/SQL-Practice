@@ -7,18 +7,18 @@ This SQL practice set contains solutions to 100 advanced MySQL DDL (Data Definit
 
 The objective of this exercise was to design, modify, and manage a relational database schema that supports a real-world online bookstore platform. The schema includes entities such as:
 
-Authors
-Books
-Categories
-Customers
-Orders
-OrderDetails
-Payments
-Delivery Agents
-Reviews
-Coupons
-Return Requests
-Wishlists
+✔ Authors  
+✔ Books  
+✔ Categories  
+✔ Customers  
+✔ Orders  
+✔ OrderDetails  
+✔ Payments  
+✔ Delivery Agents  
+✔ Reviews  
+✔ Coupons  
+✔ Return Requests
+✔ Wishlist
 
 ---
 
@@ -128,7 +128,7 @@ This repository contains solutions for 10 SQL practical sets covering different 
 
 > Author
 
-- Name: (Maqveena Gourea)
+- Name: *Maqveena Gourea*
 
 ---
 
