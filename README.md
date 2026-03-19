@@ -3,10 +3,10 @@
 
 This SQL practice set contains solutions to 100 advanced MySQL DDL (Data Definition Language) questions based on the Online Bookstore Management System scenario 
 
-SQL Practice Sets
---
+---
 
 The objective of this exercise was to design, modify, and manage a relational database schema that supports a real-world online bookstore platform. The schema includes entities such as:
+
 Authors
 Books
 Categories
@@ -19,6 +19,8 @@ Reviews
 Coupons
 Return Requests
 Wishlists
+
+---
 
 > What This Practice Covers
 
@@ -33,20 +35,26 @@ This solution demonstrates hands-on implementation of:
 - Creating and managing VIEWs
 - Real-world schema evolution scenarios
 
+---
+
 > Learning Objectives
 
-Through solving these 100 questions, I practiced:
-Designing normalized relational database structures
-Applying business rules using constraints
-Maintaining data integrity with foreign keys
-Performing schema evolution using DDL commands
-Simulating real-world backend database changes
+- Through solving these 100 questions, I practiced:
+- Designing normalized relational database structures
+- Applying business rules using constraints
+- Maintaining data integrity with foreign keys
+- Performing schema evolution using DDL commands
+- Simulating real-world backend database changes
+
+---
 
 > Tech Stack
 
-MySQL
-DDL Commands
-Relational Database Design Principles
+- MySQL
+- DDL Commands
+- Relational Database Design Principles
+
+---
 
 > Structure
 
